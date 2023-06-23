@@ -1,27 +1,41 @@
-# BasicTodoList
+# Basic TODO List
+
+
+<br />
+<img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Angular (Frontend)
+
+
+<br />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
-## Development server
+This is a basic TODO List Project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Just for implement a item list without any complex libs from angular, after that I have other tasks I want to create like a new TODO List with Angular Material, a Kanban Project and another more fun to programming.
+<br />
+<br />
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## DEVELOPMENT ENVIRONMENT
+```
+     _                      _                 ____ _     ___
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+    
 
-## Build
+Angular CLI: 15.2.6
+Node: 18.16.0
+Package Manager: npm 9.6.5
+OS: win32 x64
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```
 
-## Running unit tests
+<br />
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### NEEDED
+Just need to import the FormsModule to use the Input
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<br />
